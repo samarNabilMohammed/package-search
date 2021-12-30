@@ -19,4 +19,4 @@ above is the landing page of UniStorage <br />
 lastly, this is the search system in the "track inbound item" page. our project consists the alteration between these 2 pages, profile management system and lastly back end
 for admin to add parcel received. <br />
 
-
+We will also be implementing an authorization system, potentially 2-step, to further secure access to the system

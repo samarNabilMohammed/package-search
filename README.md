@@ -14,7 +14,7 @@ package-search have 2 user group, one is counter staff which accepts parcel from
 
 above is the landing page of UniStorage <br />
 
-![alt text](https://github.com/ersaaad/package-search/blob/8dfcb4b0e42990c3a7ceadbedd7f6d2de8a72d5d/2021-12-30.png) <br />
+![alt text](https://github.com/ersaaad/package-search/blob/8dfcb4b0e42990c3a7ceadbedd7f6d2de8a72d5d/2021-12-30%20(1).png) <br />
 
 lastly, this is the search system in the "track inbound item" page. our project consists the alteration between these 2 pages, profile management system and lastly back end
 for admin to add parcel received. <br />
